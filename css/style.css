@@ -1,0 +1,40 @@
+div{
+	width: 200px;
+	height: 200px;
+	
+}
+.rojo{
+	background-color: red;
+	position: absolute;
+	top: 0px;
+	left: 40px;
+	right: 0px;
+	bottom: 60px;
+}
+.azul{
+	background-color: blue;
+	position: absolute;
+	top: 0px;
+	left: 200px;
+	right: 0px;
+	bottom: 200px;
+}
+.verde{
+	background-color: green;
+	position:absolute;	top: 0px;
+	left: 0px;
+	right: 40px;
+	bottom: 0%;
+	top: 60px
+}
+.purple{
+	background-color: purple;
+	position: absolute;;
+	top: 60px;
+	left: 90px;
+	right: 5000px;
+	bottom:1000px;
+}
+*{	margin: 0;
+	padding: 0;
+}
